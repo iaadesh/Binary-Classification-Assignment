@@ -1,6 +1,8 @@
 # Binary-Classification-Assignment
 Using EDA, Feature Selection, Data Preprocessing and Machine Learning Modelling to solve Binary Classification problem.
 
+Assignment from https://arya.ai/
+
 ## 1. Business Problem 
 
 ### 1.1 Problem Description
